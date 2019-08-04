@@ -1,0 +1,5 @@
+*.pro
+*.bak
+*.log
+*.raw
+.~lock*
