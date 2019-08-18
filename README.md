@@ -10,7 +10,7 @@ This little protection monitor is intended to be connected to the car cigarette 
 
 ![](waeco-coolpower-m50u-12.png)
 
-A red monitoring LED will turn on when connection is active and a pulse flashing will appear when circuity disconnects the downstream load
+A red monitoring LED will turn on when connection is active and a pulse flashing (period 500 ms, duty cycle 10%) will appear when circuity disconnects the downstream load
 
 Note: this device was purchased in 2017 and as of writing (mid-2019) *WAECO* is now *[DOMETIC](https://www.dometic.com)*
 
